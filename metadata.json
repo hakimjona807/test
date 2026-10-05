@@ -1,0 +1,6 @@
+{
+  "name": "TestHub Pro - Zamonaviy Test va Ta'lim Platformasi",
+  "description": "Professional darajadagi onlayn test sinovlari, o'quvchilar va guruhlar monitoringi, real vaqt tahlili va natijalar tizimi",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
